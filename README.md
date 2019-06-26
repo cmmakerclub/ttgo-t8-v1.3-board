@@ -1,4 +1,4 @@
-# TTGO T8 V1.1
+# TTGO T8 V1.3
 
 TTGO T8
 ESP32, 4 MB Flash, 4 MB PS-RAM, 3D Antenna, SD Card Slot, Li-Po Charger

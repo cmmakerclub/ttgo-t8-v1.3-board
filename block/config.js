@@ -508,7 +508,22 @@ module.exports = {
                         'serial_read_until',
                         'basic_string'
                     ]
-                }
+                },
+                {
+                    type : 'category',
+                    name : 'MQTT',
+                    icon : '/static/icons/mqtt.png',
+                    blocks : [
+                        'mqtt_block',
+                        'mqtt_connect_block',
+                        'mqtt_publish_block',
+                        'mqtt_subscribe_block',
+                        'mqtt_callback_block',
+                        'mqtt_condition_block',
+                        'mqtt_loop_block',
+                    ]
+                },
+
             ]
         }
     ]

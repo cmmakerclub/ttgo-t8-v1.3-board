@@ -170,15 +170,6 @@ module.exports = {
                         </value>
                     </block>`
                 },
-                'time_wait_btn_press',
-                'time_sync',
-                'time_get_year',
-                'time_get_month',
-                'time_get_day',
-                'time_get_day_of_week',
-                'time_get_hour',
-                'time_get_minute',
-                'time_get_second',
                 'time_millis',
                 'time_micros'
             ]
